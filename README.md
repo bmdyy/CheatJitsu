@@ -28,7 +28,7 @@ Player:
 0        - Player.Side
 Bmdyy    - Player.Name
 0x2E3C73 - Player.Color
-2        - ?
+2        - Player.Rank
 ```
 
 ### Game Over

@@ -58,7 +58,7 @@ class Player:
         self.Side = int(tokens[0])
         self.Name = tokens[1]
         self.Color = tokens[2]
-        self.Unk2 = tokens[3]
+        self.Rank = tokens[3]
         self.Hand = Hand()
 
 # Variables to store player states
