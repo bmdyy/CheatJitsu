@@ -27,7 +27,7 @@ uz
 Player:
 0        - Player.Side
 Bmdyy    - Player.Name
-0x2E3C73 - ?
+0x2E3C73 - Player.Color
 2        - ?
 ```
 

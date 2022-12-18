@@ -57,7 +57,7 @@ class Player:
         tokens = string.split("|")
         self.Side = int(tokens[0])
         self.Name = tokens[1]
-        self.Unk1 = tokens[2]
+        self.Color = tokens[2]
         self.Unk2 = tokens[3]
         self.Hand = Hand()
 
